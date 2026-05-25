@@ -1,0 +1,24 @@
+# Generated data files -- download instructions in data/README.md
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Generated figures -- produced by running the scripts
+figures/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks (use .py scripts instead)
+*.ipynb
+
+# Virtual environments
+venv/
+env/
